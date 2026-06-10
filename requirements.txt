@@ -1,0 +1,5 @@
+# No external dependencies required.
+# This project uses Python standard library only:
+#   json, csv, heapq, argparse, datetime
+#
+# Python 3.8+ required.

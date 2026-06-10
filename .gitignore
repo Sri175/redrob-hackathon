@@ -1,0 +1,8 @@
+# Data and outputs
+*.csv
+*.zip
+*PUB*
+
+# Python
+__pycache__/
+*.pyc
