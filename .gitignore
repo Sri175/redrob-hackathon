@@ -2,6 +2,8 @@
 *.csv
 *.zip
 *PUB*
+*.pdf
+*.pptx
 
 # Python
 __pycache__/
